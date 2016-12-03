@@ -1,0 +1,83 @@
+{
+    "status": 1,
+    "list": [
+        {
+            "mtid": "6",
+            "templateName": "\u70b9\u8d5e\u9898",
+            "tid": "1",
+            "formId": "134",
+            "eleId": "507",
+            "sampleImg": "http:\/\/n9.file.pg0.cn\/group2\/M01\/00\/00\/CgoiHlgtbz2AVzJnAAAGWiNPHYA454.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        },
+        {
+            "mtid": "5",
+            "templateName": "\u8868\u60c5\u91cf\u8868\u8c03\u67e5\u9898",
+            "tid": "2",
+            "formId": "134",
+            "eleId": "506",
+            "sampleImg": "http:\/\/n2.file.pg0.cn\/group2\/M00\/00\/00\/CgoiH1gtbfyAJUndAAAeiL5LBT8716.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        },
+        {
+            "mtid": "4",
+            "templateName": "\u540c\u610f\u7a0b\u5ea6\u8c03\u67e5\u9898",
+            "tid": "2",
+            "formId": "134",
+            "eleId": "505",
+            "sampleImg": "http:\/\/n8.file.pg0.cn\/group2\/M00\/00\/00\/CgoiH1gtbfuAKhdvAAAOd9UdjWw200.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        },
+        {
+            "mtid": "3",
+            "templateName": "\u6ee1\u610f\u7a0b\u5ea6\u8c03\u67e5\u9898",
+            "tid": "2",
+            "formId": "134",
+            "eleId": "504",
+            "sampleImg": "http:\/\/n2.file.pg0.cn\/group2\/M00\/00\/00\/CgoiHlgtbfuANjflAAAMv4FH5fM794.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        },
+        {
+            "mtid": "2",
+            "templateName": "\u540c\u610f\/\u4e0d\u540c\u610f\u9898",
+            "tid": "1",
+            "formId": "134",
+            "eleId": "502",
+            "sampleImg": "http:\/\/n3.file.pg0.cn\/group2\/M01\/00\/00\/CgoiH1gtbfqAZEPAAAAIkVa9O7k284.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        },
+        {
+            "mtid": "1",
+            "templateName": "\u6ee1\u610f\/\u4e0d\u6ee1\u610f\u9898",
+            "tid": "1",
+            "formId": "134",
+            "eleId": "503",
+            "sampleImg": "http:\/\/n9.file.pg0.cn\/group2\/M00\/00\/00\/CgoiHlgtbfqAD2zSAAAIgpZHhDI971.png",
+            "createTime": "0",
+            "creatorId": "0",
+            "updateTime": "0",
+            "updateUserId": "0",
+            "deleteFlag": "0"
+        }
+    ]
+}
